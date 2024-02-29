@@ -1,4 +1,4 @@
-package com.rest.SpringRestService.Repository;
+package com.rest.SpringRestService.repository;
 
 import com.rest.SpringRestService.model.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
